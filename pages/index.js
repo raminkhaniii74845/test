@@ -5,7 +5,7 @@ const Home=()=>{
   return(
     <div>
       <Layout> 
-        heloo worldjgbkhlk
+        awlie
      </Layout>
     </div>
   )
